@@ -8,7 +8,7 @@ I've spent my career building products at the intersection of strategy, user ins
 
 ## What I'm building
 
-### [Baseline](https://github.com/missydaniels/baseline) *(in progress)*
+### [Baseline](https://github.com/missydaniels-pm/baseline) *(in progress)*
 
 A tool for people managing chronic health conditions who want real data on what's actually working.
 
